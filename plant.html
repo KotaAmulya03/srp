@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Plant Info</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+  background: #E8F5E9; /* Light greenish background */
+  color: #333;
+}
+
+  </style>
+</head>
+<body>
+  <!-- Help button at the top left corner -->
+  <button id="backButton" onclick="window.location.href='index.html'">Back</button>
+
+  <div id="plantDetail"></div>
+
+  <script>
+    const plant = JSON.parse(localStorage.getItem('selectedPlant'));
+    const container = document.getElementById('plantDetail');
+
+    container.innerHTML = `
+      <h1>${plant.name}</h1>
+      <img src="${plant.image}" alt="${plant.name}" />
+      <p style="margin-top: 10px;">${plant.description}</p> 
+      <h2>Sources</h2>
+      <ul>${plant.sources.map(s => `<li>${s}</li>`).join('')}</ul>
+      <h2>Uses</h2>
+      <ul>
+        <li><strong>Medicine:</strong> ${plant.uses.medicine.join(', ')}</li>
+        <li><strong>Healthcare:</strong> ${plant.uses.healthcare.join(', ')}</li>
+        <li><strong>Cooking:</strong> ${plant.uses.cooking.join(', ')}</li>
+      </ul>
+      <h2>Benefits</h2>
+      <ul>${plant.benefits.map(b => `<li>${b}</li>`).join('')}</ul>
+    `;
+  </script>
+</body>
+</html>

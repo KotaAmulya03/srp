@@ -1,0 +1,1221 @@
+[
+  {
+    "name": "Aloe Vera",
+    "image": "assets/images/aloevera.jpeg",
+    "description": "Aloe vera is a succulent plant species well known for its thick, fleshy leaves filled with a soothing gel. Native to arid regions, it has been used for thousands of years for its medicinal properties, especially in skincare and wound healing. Aloe vera gel is rich in vitamins, enzymes, and amino acids, making it a popular natural remedy for burns, cuts, sunburn, and skin hydration. It is also consumed internally for digestive health and boosting immunity.",
+    "sources": [
+      "Tropical climates",
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Burn relief",
+        "Wound healing"
+      ],
+      "healthcare": [
+        "Moisturizer",
+        "Acne treatment"
+      ],
+      "cooking": [
+        "Used in drinks and desserts"
+      ]
+    },
+    "benefits": [
+      "Anti-inflammatory",
+      "Hydrates skin",
+      "Boosts digestion"
+    ],
+    "categories": [
+      "skin care",
+      "health care",
+      "diabetic"
+    ]
+  },
+  {
+    "name": "Neem",
+    "image": "assets/images/neem.jpeg",
+    "description": "Neem (Azadirachta indica) is a fast-growing, evergreen tree native to the Indian subcontinent. Known as the Village Pharmacy, neem has been used for centuries in traditional medicine due to its powerful antibacterial, antifungal, antiviral, and anti-inflammatory properties. Almost every part of the tree — including its leaves, bark, seeds, and flowers — is used in remedies for skin disorders, dental care, digestion, and immune support. Neem oil and extracts are widely used in skincare products, pest control, and even as natural fertilizers.",
+    "sources": [
+      "India",
+      "Southeast Asia"
+    ],
+    "uses": {
+      "medicine": [
+        "Treats infections",
+        "Fever relief"
+      ],
+      "healthcare": [
+        "Anti-dandruff",
+        "Pimple cure"
+      ],
+      "cooking": [
+        "Used in Ayurvedic dishes"
+      ]
+    },
+    "benefits": [
+      "Boosts immunity",
+      "Purifies blood"
+    ],
+    "categories": [
+      "acne",
+      "skin care",
+      "anti-pyretic",
+      "diabetic"
+    ]
+  },
+  {
+    "name": "Ashwagandha",
+    "image": "assets/images/aswagandha.jpeg",
+    "description": "Ashwagandha (Withania somnifera), often called Indian ginseng or Winter cherry, is a powerful herb used in Ayurvedic medicine for over 3,000 years. It is known for its adaptogenic properties, helping the body manage stress, enhance stamina, and improve overall vitality. The roots and leaves of the plant are commonly used to boost energy levels, support cognitive function, balance hormones, and strengthen the immune system. Ashwagandha is also valued for its anti-inflammatory, anti-anxiety, and rejuvenating effects.",
+    "sources": [
+      "India",
+      "Nepal"
+    ],
+    "uses": {
+      "medicine": [
+        "stress relief",
+        "Insomnia"
+      ],
+      "healthcare": [
+        "Anti-aging",
+        "Fights Acne & Inflammation",
+        "Brightens Skin Tone"
+      ],
+      "cooking": [
+        "Used in Ayurvedic dishes",
+        "Smoothies",
+        "Golden Milk Variants"
+      ]
+    },
+    "benefits": [
+      "Reduces cortisol",
+      "Improves Strength",
+      "Boosts brain function"
+    ],
+    "categories": [
+      "health care",
+      "weight management"
+    ]
+  },
+  {
+    "name": "Brahmi",
+    "image": "assets/images/brahmi.jpeg",
+    "description": "Brahmi (Bacopa monnieri) is a revered herb in traditional Ayurvedic medicine, known for its remarkable effects on brain function and memory enhancement. It is a small, creeping plant found in wetlands and tropical environments. Brahmi is widely used to improve cognitive abilities, reduce anxiety and stress, and promote emotional balance. Rich in antioxidants, it also supports nervous system health and may help in combating neurodegenerative conditions.",
+    "sources": [
+      "Wet lands in India"
+    ],
+    "uses": {
+      "medicine": [
+        "Anxiety",
+        "Cognitive decline"
+      ],
+      "healthcare": [
+        "Heals Wounds and Scars",
+        "Pimple cure",
+        "Moisturizes Dry Skin"
+      ],
+      "cooking": [
+        "Used in South Indian and tribal cuisines"
+      ]
+    },
+    "benefits": [
+      "Boosts memory",
+      "Reduces anxiety",
+      "Improves focus"
+    ],
+    "categories": [
+      "health care",
+      "mental wellness"
+    ]
+  },
+  {
+    "name": "Tulsi (Holy Basil)",
+    "image": "assets/images/basil.webp",
+    "description": "Tulsi (Ocimum sanctum), also known as Holy Basil, is a sacred plant in India celebrated for its medicinal and spiritual significance. It is widely used in Ayurvedic practices for its powerful healing properties, including boosting immunity, reducing stress, supporting respiratory health, and promoting heart health. Tulsi leaves are rich in antioxidants and essential oils that offer antibacterial, antiviral, and anti-inflammatory benefits. It is often consumed as herbal tea and used in traditional remedies.",
+    "sources": [
+      "India",
+      "South Asia"
+    ],
+    "uses": {
+      "medicine": [
+        "Fever",
+        "Respiratory illness"
+      ],
+      "healthcare": [
+        "Natural Cleanser",
+        "Soothes Skin Irritations"
+      ],
+      "cooking": [
+        "Tulsi isn’t just medicinal — it also adds a unique peppery flavor to food and drinks."
+      ]
+    },
+    "benefits": [
+      "Anti-bacterial",
+      "Relieves stress",
+      "Strengthens immunity"
+    ],
+    "categories": ["diabetic"]
+  },
+  {
+    "name": "Amla (Indian Gooseberry)",
+    "image": "assets/images/amla.jpeg",
+    "description": "Amla (Phyllanthus emblica), also known as Indian Gooseberry, is a nutrient-rich fruit widely used in Ayurvedic medicine. It is renowned for its exceptionally high vitamin C content and strong antioxidant properties, which help boost immunity, improve digestion, promote healthy skin and hair, and support heart health. Amla is often consumed fresh, dried, or as a juice and is a key ingredient in many herbal formulations like chyawanprash and hair tonics.",
+    "sources": [
+      "India",
+      "Sri Lanka"
+    ],
+    "uses": {
+      "medicine": [
+        "Immunity booster",
+        "Anti-aging"
+      ],
+      "healthcare": [
+        "Hair strengthening",
+        "Natural Exfoliator"
+      ],
+      "cooking": [
+        "Pickles",
+        "Juice"
+      ]
+    },
+    "benefits": [
+      "Rich in antioxidants",
+      "Improves digestion",
+      "Promotes hair growth"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Shatavari",
+    "image": "assets/images/shatavari.jpeg",
+    "description": "Shatavari (Asparagus racemosus) is a prized herb in Ayurvedic medicine, known for its rejuvenating and nourishing effects, particularly on the female reproductive system. It helps balance hormones, support fertility, and promote overall vitality. Shatavari is also valued for its adaptogenic properties, aiding the body in coping with physical and emotional stress. Additionally, it supports digestive health, strengthens the immune system, and acts as a natural antioxidant and anti-inflammatory agent.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Hormonal balance",
+        "Lactation support"
+      ],
+      "healthcare": [
+        "Reproductive health"
+      ],
+      "cooking": [
+        "Shatavari is mildly bitter and sweet. It’s usually consumed in powdered form, added to milk or ghee-based recipes, and often included in Ayurvedic diets for strength, stamina, and hormone support."
+      ]
+    },
+    "benefits": [
+      "Supports fertility",
+      "Reduces menopause symptoms",
+      "Boosts immunity"
+    ],
+    "categories": [
+      "health care",
+      "women wellness"
+    ]
+  },
+  {
+    "name": "Gotu Kola",
+    "image": "assets/images/gotukola.jpeg",
+    "description": "Gotu Kola (Centella asiatica) is a small, leafy herb highly valued in traditional medicine systems like Ayurveda and Traditional Chinese Medicine. It is known for enhancing cognitive function, improving memory, and promoting mental clarity. Gotu Kola also supports wound healing, strengthens blood vessels, improves skin health, and helps reduce anxiety and stress. Rich in antioxidants and beneficial compounds, it is often used to promote overall vitality and longevity.",
+    "sources": [
+      "India",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "uses": {
+      "medicine": [
+        "Wound healing",
+        "Memory enhancement"
+      ],
+      "healthcare": [
+        "Scar reduction",
+        "Boosts Brain Function & Memory"
+      ],
+      "cooking": [
+        "Gotu Kola has a mild bitter and grassy flavor. It’s popular in Sri Lankan, Thai, and Indian cuisine."
+      ]
+    },
+    "benefits": [
+      "Improves circulation",
+      "Boosts brain power",
+      "Heals skin"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Licorice (Mulethi)",
+    "image": "assets/images/mulethi.jpeg",
+    "description": "Mulethi (Glycyrrhiza glabra), also known as Licorice root, is a well-known herb in traditional medicine, prized for its sweet taste and numerous health benefits. It is commonly used to soothe sore throats, support respiratory health, improve digestion, and boost immunity. Mulethi also has anti-inflammatory, antioxidant, and antimicrobial properties. It is often included in herbal teas, syrups, and formulations for its calming and healing effects on the body.",
+    "sources": [
+      "India",
+      "Mediterranean"
+    ],
+    "uses": {
+      "medicine": [
+        "Sore throat",
+        "Ulcer treatment"
+      ],
+      "healthcare": [
+        "Relieves Cough, Cold & Sore Throat",
+        "Soothes Stomach & Improves Digestion"
+      ],
+      "cooking": [
+        " Mulethi can also be added to spice blends and drinks."
+      ]
+    },
+    "benefits": [
+      "Soothes cough",
+      "Aids digestion",
+      "Anti-inflammatory"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Haritaki",
+    "image": "assets/images/haritaki.jpeg",
+    "description": "Haritaki (Terminalia chebula) is a highly revered fruit in Ayurvedic medicine, often called the King of Medicines for its wide range of health benefits. It is known for promoting digestive health, improving bowel movements, detoxifying the body, and enhancing longevity. Haritaki is rich in antioxidants and has anti-inflammatory, antibacterial, and antiviral properties. It is also used to support brain function, strengthen the immune system, and maintain overall vitality.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Constipation",
+        "Detoxification"
+      ],
+      "healthcare": [
+        "Digestive Detox & Constipation Relief",
+        "Weight Loss & Metabolism Boost",
+        "Respiratory Health"
+      ],
+      "cooking": [
+        "Used in Ayurvedic food preparations and functional tonics."
+      ]
+    },
+    "benefits": [
+      "Improves gut health",
+      "Anti-aging",
+      "Cleanses body"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Arjuna",
+    "image": "assets/images/arjuna.jpeg",
+    "description": "Arjuna (Terminalia arjuna) is a powerful medicinal tree in Ayurvedic medicine, primarily known for its benefits to heart health. The bark of the Arjuna tree is rich in antioxidants and has cardioprotective, anti-inflammatory, and blood pressure-regulating properties. It is traditionally used to strengthen the heart muscles, improve circulation, and manage conditions like hypertension and high cholesterol. Arjuna also supports overall cardiovascular health and enhances physical endurance.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Heart health",
+        "Blood pressure"
+      ],
+      "healthcare": [
+        "Cardiac strength",
+        "Reduces Blood Pressure & Cholesterol",
+        "Hair Health"
+      ],
+      "cooking": [
+        "Arjuna is more of a therapeutic functional ingredient than a typical cooking herb, but it can be incorporated into healthful drinks and special recipes"
+      ]
+    },
+    "benefits": [
+      "Strengthens heart muscles",
+      "Regulates BP",
+      "Improves circulation"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Guggul",
+    "image": "assets/images/guggul.jpeg",
+    "description": "Guggul (Commiphora mukul) is a resin extracted from the Mukul myrrh tree and has been used in Ayurvedic medicine for centuries. It is highly valued for its ability to support weight management, balance cholesterol levels, and promote healthy metabolism. Guggul is rich in guggulsterones, compounds known for their anti-inflammatory, antioxidant, and lipid-lowering properties. It is commonly used to support joint health, detoxify the body, and maintain overall cardiovascular well-being. ",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Cholesterol control",
+        "Weight management"
+      ],
+      "healthcare": [
+        "Supports Thyroid Function",
+        "Treats Joint Pain, Arthritis & Inflammation"
+      ],
+      "cooking": [
+        " Guggul is resinous and not commonly used in everyday cooking like tulsi or amla — but it can be consumed safely in tonics and Ayurvedic recipes."
+      ]
+    },
+    "benefits": [
+      "Burns fat",
+      "Lowers cholesterol",
+      "Cleanses body"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Turmeric",
+    "image": "assets/images/turmeric.jpeg",
+    "description": "Turmeric (Curcuma longa) is a vibrant yellow-orange spice widely used in traditional medicine and cooking, especially in India. It is best known for its active compound curcumin, which has powerful anti-inflammatory, antioxidant, and healing properties. Turmeric supports joint health, boosts immunity, aids digestion, and promotes healthy skin. It is also valued for its potential in managing chronic conditions like arthritis, heart disease, and certain metabolic disorders.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Arthritis",
+        "Wound healing"
+      ],
+      "healthcare": [
+        "Face masks",
+        "Blood Purifier & Immunity Booster"
+      ],
+      "cooking": [
+        "Curry spice"
+      ]
+    },
+    "benefits": [
+      "Fights inflammation",
+      "Improves immunity",
+      "Enhances skin"
+    ],
+    "categories": [
+      "skin care",
+      "health care",
+      "anti-pyretic",
+      "diabetic"
+    ]
+  },
+  {
+    "name": "Giloy (Guduchi)",
+    "image": "assets/images/giloy.jpeg",
+    "description": "Giloy (Tinospora cordifolia) is a highly valued herb in Ayurvedic medicine, known as the root of immortality for its wide-ranging health benefits. It is renowned for boosting immunity, purifying the blood, supporting liver health, and managing chronic fevers. Giloy also helps reduce inflammation, improves digestion, and enhances the body’s resistance to infections. It is rich in antioxidants and is often used as a natural remedy for improving overall vitality and well-being.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Fever",
+        "Immunity"
+      ],
+      "healthcare": [
+        "Blood purification",
+        "Antipyretic (Fever-Reducing)",
+        "Diabetes Management"
+      ],
+      "cooking": [
+        "Not a cooking spice like turmeric, Giloy is commonly consumed in health drinks, decoctions, and tonics."
+      ]
+    },
+    "benefits": [
+      "Boosts immunity",
+      "Treats chronic fever",
+      "Purifies blood"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Bael (Bilva)",
+    "image": "assets/images/bilva.jpeg",
+    "description": "Bael (Aegle marmelos), also known as Bilva, is a sacred tree in Hinduism and a powerful medicinal plant in traditional medicine. The fruit, leaves, and bark of Bael are used to treat a variety of health conditions, including digestive disorders, fever, and respiratory issues. Bael is known for its antibacterial, anti-inflammatory, and antioxidant properties. It helps improve digestion, reduce bloating, detoxify the body, and support liver function. The fruit is also beneficial in managing blood sugar levels and promoting heart health",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Diarrhea",
+        "Acidity"
+      ],
+      "healthcare": [
+        "Digestive tonic",
+        "Regulates Blood Sugar (Anti-Diabetic)",
+        "Boosts Immunity"
+      ],
+      "cooking": [
+        "Bael Fruit Sherbet (Juice)",
+        "Bilva Leaf Juice"
+      ]
+    },
+    "benefits": [
+      "Improves digestion",
+      "Cools body",
+      "Antimicrobial"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Bhringraj",
+    "image": "assets/images/bringraj.jpeg",
+    "description": "Bhringaraj (Eclipta alba) is a revered herb in Ayurvedic medicine, often referred to as the King of Hair due to its ability to promote hair growth and prevent hair loss. It is also used to improve liver health, detoxify the body, and enhance overall vitality. Bhringaraj has anti-inflammatory, antioxidant, and antimicrobial properties. It is commonly used to treat conditions like dandruff, premature graying, and skin disorders. Additionally, Bhringaraj supports the immune system, improves digestion, and helps balance the body energy.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Liver detox"
+      ],
+      "healthcare": [
+        "Liver Tonic (Hepatoprotective)",
+        "Rejuvenation & Anti-aging"
+      ],
+      "cooking": [
+        "Not a kitchen herb, Bhringraj is commonly used in decoctions, juices, and teas."
+      ]
+    },
+    "benefits": [
+      "Strengthens hair",
+      "Improves liver",
+      "Reduces stress"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Moringa (Drumstick Tree)",
+    "image": "assets/images/moringa.jpeg",
+    "description": "Moringa (Moringa oleifera), also known as the drumstick tree or miracle tree, is an incredibly nutritious plant that has been used for centuries in traditional medicine. Moringa leaves are packed with vitamins, minerals, and antioxidants that help support overall health. It is known for boosting immunity, promoting digestion, reducing inflammation, and improving skin health. Moringa is also beneficial for controlling blood sugar levels, lowering cholesterol, and enhancing energy levels. The seeds, leaves, and pods of Moringa are used in a variety of medicinal and culinary applications.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Malnutrition",
+        "Energy booster"
+      ],
+      "healthcare": [
+        "Rich in Nutrients & Antioxidants",
+        "Supports Brain Health"
+      ],
+      "cooking": [
+        "Curry ingredient"
+      ]
+    },
+    "benefits": [
+      "Rich in iron",
+      "Boosts energy",
+      "Balances blood sugar"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Kalmegh (Andrographis)",
+    "image": "assets/images/kalmegh.jpeg",
+    "description": "Kalmegh (Andrographis paniculata), also known as King of Bitters, is a powerful herb widely used in traditional medicine for its strong medicinal properties. It is known for its potent antiviral, antibacterial, and anti-inflammatory effects. Kalmegh is often used to support liver health, boost immunity, and treat conditions like colds, fevers, and digestive disorders. Its bitter compounds also aid in detoxification, improve appetite, and promote overall well-being. The herb is commonly used as a natural remedy for various infections and as a digestive tonic.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Liver disorders",
+        "Cold and flu"
+      ],
+      "healthcare": [
+        "Liver Detox & Protection",
+        "Antioxidant & Detoxifying"
+      ],
+      "cooking": [
+        "Kalmegh is not commonly used in food preparations due to its extremely bitter taste, but it’s highly effective in herbal teas or capsules."
+      ]
+    },
+    "benefits": [
+      "Fights infections",
+      "Protects liver",
+      "Boosts immunity"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Shankhpushpi",
+    "image": "assets/images/shankpushpi.jpeg",
+    "description": "Shankpushpi (Convolvulus pluricaulis) is a renowned herb in Ayurvedic medicine, commonly used to enhance brain function, improve memory, and support cognitive health. It is considered a natural nootropic, known for its ability to boost mental clarity, focus, and reduce stress and anxiety. Shankpushpi also has calming properties, making it useful for promoting restful sleep and managing mental fatigue. Additionally, it is used to support the nervous system, improve digestion, and enhance overall vitality.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Memory",
+        "Mental fatigue"
+      ],
+      "healthcare": [
+        "Insomnia treatment",
+        "acne, skin infections, and promote glowing skin",
+        "Liver tonic"
+      ],
+      "cooking": [
+        "Herbal Tea",
+        "Syrups (Sharbat)",
+        "Smoothies",
+        "Herbal Supplements"
+      ]
+    },
+    "benefits": [
+      "Enhances learning",
+      "Reduces anxiety",
+      "Improves sleep"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Punarnava",
+    "image": "assets/images/punarnava.jpeg",
+    "description": "Punarnava (Boerhavia diffusa) is a powerful herb used in traditional medicine for its diuretic and anti-inflammatory properties. It is known for its ability to support kidney health, reduce swelling, and improve overall fluid balance in the body. Punarnava is also used to treat conditions like urinary tract infections, liver disorders, and digestive issues. Additionally, it promotes general detoxification, supports joint health, and helps rejuvenate the body, improving energy levels and reducing fatigue.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Kidney health",
+        "Urinary disorders"
+      ],
+      "healthcare": [
+        "Liver protection",
+        "Weight management",
+        "Eye health",
+        "Blood sugar control"
+      ],
+      "cooking": [
+        "Punarnava Herbal Tea",
+        "Always cook Punarnava leaves lightly to preserve their detoxifying and medicinal properties — overcooking may reduce their health benefits."
+      ]
+    },
+    "benefits": [
+      "Cleanses kidneys",
+      "Diuretic",
+      "Reduces swelling"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Vidanga",
+    "image": "assets/images/vidanga.jpeg",
+    "description": "Vidanga (Embelia ribes) is a medicinal plant widely used in Ayurvedic medicine for its potent detoxifying and digestive properties. It is known for its ability to treat parasitic infections, support liver health, and promote overall detoxification. Vidanga also helps improve appetite, manage digestive disorders, and support the respiratory system. Its antioxidant, anti-inflammatory, and antimicrobial effects make it a valuable herb in treating various skin and internal health conditions.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Worms",
+        "Gut health"
+      ],
+      "healthcare": [
+        "Anti-parasitic",
+        "Blood purifier",
+        "Weight management",
+        "Anti-inflammatory"
+      ],
+      "cooking": [
+        "Vidanga has a naturally bitter and slightly pungent taste — always mix it with sweet elements like honey or jaggery to balance the flavor in recipes."
+      ]
+    },
+    "benefits": [
+      "Destroys parasites",
+      "Improves digestion",
+      "Boosts metabolism"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Manjistha",
+    "image": "assets/images/manjistha.jpeg",
+    "description": "Manjistha (Rubia cordifolia) is a powerful herb in Ayurvedic medicine known for its blood-purifying and detoxifying properties. It is commonly used to support skin health, treat skin conditions like acne and eczema, and promote a clear complexion. Manjistha also supports liver health, enhances circulation, and improves kidney function. Rich in antioxidants, it helps reduce inflammation, fight infections, and promote overall wellness by balancing the body’s internal systems.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Blood purification"
+      ],
+      "healthcare": [
+        "Pigmentation",
+        "Acne",
+        "Menstrual health",
+        "Anti-inflammatory",
+        "Liver support",
+        "Wound healing"
+      ],
+      "cooking": [
+        "Manjistha Tea",
+        "Always combine Manjistha with healthy fats like ghee, almond milk, or coconut milk — it helps the body absorb its skin-enhancing and detoxifying properties better."
+      ]
+    },
+    "benefits": [
+      "Detoxifies blood",
+      "Clears skin",
+      "Anti-inflammatory"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Chitrak",
+    "image": "assets/images/chitrak.jpeg",
+    "description": "Chitrak (Plumbago zeylanica) is an important herb in Ayurvedic medicine known for its digestive, anti-inflammatory, and detoxifying properties. It is often used to stimulate appetite, promote digestion, and treat various gastrointestinal disorders like indigestion and bloating. Chitrak also helps in detoxifying the body, improving metabolism, and balancing the doshas in the body. Additionally, it is used for its anti-rheumatic and antimicrobial effects to support joint and skin health.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Indigestion",
+        "Weight loss"
+      ],
+      "healthcare": [
+        "Respiratory health",
+        "Skin diseases",
+        "Arthritis relief",
+        "Fever reduction"
+      ],
+      "cooking": [
+        "Digestive Churna",
+        "Always use Chitrak in very small quantities in cooking or herbal mixes, as it is very hot and potent — excess can cause irritation to the stomach lining"
+      ]
+    },
+    "benefits": [
+      "Improves appetite",
+      "Burns fat",
+      "Cleanses liver"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Jatamansi",
+    "image": "assets/images/jatamansi.jpeg",
+    "description": "Jatamansi (Nardostachys jatamansi) is a highly valued herb in Ayurvedic medicine, known for its calming and stress-relieving properties. It is commonly used to improve mental health, reduce anxiety, and promote relaxation. Jatamansi also supports cognitive function, improves memory, and enhances sleep quality. With its anti-inflammatory, antioxidant, and sedative effects, it is often used to treat conditions like insomnia, depression, and neurological disorders. Jatamansi is also beneficial for skin health and improving overall vitality.",
+    "sources": [
+      "Himalayan region"
+    ],
+    "uses": {
+      "medicine": [
+        "Insomnia",
+        "Stress"
+      ],
+      "healthcare": [
+        "Hair care",
+        "Skin care",
+        "Heart health"
+      ],
+      "cooking": [
+        "Herbal Blend:Mix a small amount of Jatamansi powder with Brahmi and Ashwagandha powders to make a brain-boosting herbal supplement (taken with honey or ghee).Use only a tiny pinch of Jatamansi in any recipe — it has a very strong, earthy aroma, and too much can overpower both the taste and smell of the dish or drink."
+      ]
+    },
+    "benefits": [
+      "Improves sleep",
+      "Relieves tension",
+      "Strengthens nerves"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Yastimadhu (Indian Licorice)",
+    "image": "assets/images/yastimadhu.jpeg",
+    "description": "Yastimadhu (Glycyrrhiza glabra), also known as Licorice, is a well-known herb with numerous medicinal properties. It is widely used to soothe the throat, alleviate cough and cold symptoms, and promote respiratory health. Yastimadhu also has anti-inflammatory, antioxidant, and anti-ulcer properties. It supports digestive health, helps balance hormones, and boosts immunity. Additionally, it is beneficial for reducing stress, improving skin health, and enhancing overall well-being.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Throat infection",
+        "Stomach ulcer"
+      ],
+      "healthcare": [
+        "Hormonal balancing",
+        "Hair care"
+      ],
+      "cooking": [
+        "Flavored Milk:Add a very small pinch of Yastimadhu powder to warm milk before bedtime to support relaxation and immunity.Since Yastimadhu is naturally sweet, use it in tiny amounts to enhance the flavor of herbal teas or milk without needing extra sugar."
+      ]
+    },
+    "benefits": [
+      "Reduces inflammation",
+      "Protects stomach",
+      "Soothes throat"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Kuth (Costus Root)",
+    "image": "assets/images/kuth.jpeg",
+    "description": "Kuth (Costus root), also known as Saussurea lappa, is a traditional herb used in Ayurveda for its medicinal properties. It is highly regarded for its ability to treat digestive issues such as indigestion, bloating, and loss of appetite. Kuth also has strong anti-inflammatory, antimicrobial, and antifungal effects, making it useful in treating infections and respiratory conditions like asthma and bronchitis. The root is also used to support liver health, improve circulation, and detoxify the body. Additionally, it is known for its pain-relieving and anti-stress properties.",
+    "sources": [
+      "India",
+      "Himalayas"
+    ],
+    "uses": {
+      "medicine": [
+        "Respiratory issues",
+        "Infections"
+      ],
+      "healthcare": [
+        "Asthma and bronchitis",
+        "Skin infections",
+        "Joint pain relief",
+        "Hair health"
+      ],
+      "cooking": [
+        "Herbal Honey Mix:Mix a very small pinch of Kuth powder with a spoon of raw honey — take it to soothe cough or throat irritation.🌟 Cooking Tip:Use Kuth in very small amounts because it has a strong earthy, bitter flavor — it blends best with sweet ingredients like honey, jaggery, or warm milk-based preparations."
+      ]
+    },
+    "benefits": [
+      "Fights bacteria",
+      "Reduces swelling",
+      "Supports breathing"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Bhumi Amla",
+    "image": "assets/images/bhumi amla.jpeg",
+    "description": "Bhumi Amla (Phyllanthus niruri), also known as the Stonebreaker or Chanca Piedra, is a powerful herb used in traditional medicine for its ability to support kidney and liver health. It is highly valued for its diuretic and detoxifying properties, often used to treat urinary tract infections, kidney stones, and liver disorders. Bhumi Amla is also known for its anti-inflammatory, antiviral, and antioxidant effects, making it beneficial for boosting the immune system and promoting overall well-being. Additionally, it helps improve digestion and maintain healthy blood sugar levels.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Liver disorders",
+        "Jaundice"
+      ],
+      "healthcare": [
+        "Kidney stones and bladder health",
+        "Jaundice treatment",
+        "skin rashes, eczema, and acne",
+        "Digestive issues"
+      ],
+      "cooking": [
+        "Smoothie Addition:Add a small pinch of Bhumi Amla powder into fruit smoothies or juices for additional health benefits, especially for kidney and liver support.🌟 Cooking Tip:Bhumi Amla has a bitter taste, so it’s best used in combination with sweeter ingredients like honey, citrus fruits, or apples to balance the flavor."
+      ]
+    },
+    "benefits": [
+      "Protects liver",
+      "Heals jaundice",
+      "Reduces inflammation"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Apamarga",
+    "image": "assets/images/apamarga.jpeg",
+    "description": "Apamarga (Achyranthes aspera) is a medicinal plant commonly used in traditional medicine for its anti-inflammatory, analgesic, and antipyretic properties. It is known for its ability to treat conditions such as fever, respiratory issues, and digestive disorders. Apamarga is also used to manage joint pain, reduce swelling, and support overall immune function. Additionally, it is beneficial for treating wounds, promoting skin health, and managing conditions like asthma and cough.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Joint pain",
+        "Detox"
+      ],
+      "healthcare": [
+        "Wound healing",
+        "Urinary tract health",
+        "Joint pain relief",
+        "Digestive disorders"
+      ],
+      "cooking": [
+        "Herbal Powder:Dry and grind the leaves into a powder. Add a small amount to soups, stews, or herbal drinks for a digestive boost.🌟 Cooking Tip: Apamarga has a bitter taste, so it’s best to pair it with honey or other sweeteners to make it more palatable, especially in teas and juices."
+      ]
+    },
+    "benefits": [
+      "Removes toxins",
+      "Relieves pain",
+      "Balances doshas"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Palash (Flame of the Forest)",
+    "image": "assets/images/palash.jpeg",
+    "description": "Palash (Butea monosperma), also known as the Flame of the Forest, is a medicinal tree commonly used in Ayurvedic medicine for its anti-inflammatory, antioxidant, and antimicrobial properties. The flowers, bark, and leaves of Palash are used to treat a variety of health issues, including respiratory conditions, digestive disorders, and skin problems. It is also known for its ability to improve liver function, reduce fever, and enhance overall vitality. Palash is often used to support menstrual health and to promote wound healing.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Skin disorders",
+        "Urinary tract issues"
+      ],
+      "healthcare": [
+        "Skin infections and irritations",
+        "Diabetes management",
+        "Menstrual health",
+        "Liver detox"
+      ],
+      "cooking": [
+        "Palash Syrup:A syrup can be made by boiling the flowers in water and adding sugar or jaggery to make a healthful drink that promotes digestion and respiratory health.🌟 Cooking Tip:Palash flowers have a natural sweetness, so they are often used in drinks and syrups. Use them in moderation to avoid an overpowering flavor."
+      ]
+    },
+    "benefits": [
+      "Anti-bacterial",
+      "Treats infections",
+      "Natural coolant"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Danti",
+    "image": "assets/images/danti.jpeg",
+    "description": "Danti (Baliospermum montanum) is a medicinal plant used in traditional medicine for its purgative, anti-inflammatory, and digestive properties. It is commonly used to treat constipation, indigestion, and other gastrointestinal disorders. Danti helps in detoxifying the body, promoting bowel regularity, and supporting liver health. It is also known for its antimicrobial properties, which make it useful in treating skin infections and wounds. Additionally, Danti is used for its ability to reduce fever and treat conditions like arthritis.",
+    "sources": [
+      "India"
+    ],
+    "uses": {
+      "medicine": [
+        "Constipation",
+        "Detox"
+      ],
+      "healthcare": [
+        "Constipation relief",
+        "Pain and inflammation",
+        "Skin infections and rashes",
+        "Fever management"
+      ],
+      "cooking": [
+        "Danti and Honey Remedy:Mix a small amount of Danti powder with honey and take it to relieve constipation and promote bowel health.🌟 Cooking Tip: Since Danti has a bitter taste, it is usually combined with sweeteners like honey or jaggery to make it more palatable, especially in teas and remedies."
+      ]
+    },
+    "benefits": [
+      "Cleanses intestines",
+      "Reduces bloating",
+      "Eliminates toxins"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Dhatura",
+    "image": "assets/images/dhatura.jpeg",
+    "description": "Dhatura (Datura stramonium), also known as Jimson weed or Devils trumpet, is a highly potent plant used in traditional medicine for its psychoactive and medicinal properties. While it is toxic if misused, it is known for its antispasmodic, pain-relieving, and sedative effects. Dhatura has been used to treat respiratory conditions like asthma and bronchitis, as well as for its ability to relieve muscle spasms and pain. It also has antimicrobial properties, but due to its toxicity, it should only be used under expert supervision.",
+    "sources": [
+      "India",
+      "Tropical regions",
+      "Himalayas"
+    ],
+    "uses": {
+      "medicine": [
+        "Asthma (in small doses)",
+        "Muscle spasms",
+        "Pain relief"
+      ],
+      "healthcare": [
+        "Asthma and bronchitis relief",
+        "Epilepsy and seizures",
+        "Pain and inflammation"
+      ],
+      "cooking": [
+        " Due to the toxicity of Dhatura, it should not be consumed in any cooking or home remedies without expert consultation."
+      ]
+    },
+    "benefits": [
+      "Relieves muscle pain",
+      "Eases respiratory issues",
+      "Has anesthetic properties (with extreme care)"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Nagkesar",
+    "image": "assets/images/nagkesar.jpeg",
+    "description": "Nagkesar (Mesua ferrea) is a medicinal tree known for its anti-inflammatory, antimicrobial, and antioxidant properties. The flowers and bark of Nagkesar are commonly used in Ayurvedic medicine to treat conditions like digestive disorders, skin infections, and respiratory issues. It is also used to support liver health, reduce fever, and promote wound healing. Nagkesar is believed to improve circulation, strengthen the heart, and help in managing diabetes by regulating blood sugar levels.",
+    "sources": [
+      "India",
+      "Western Ghats",
+      "Assam"
+    ],
+    "uses": {
+      "medicine": [
+        "Bleeding disorders",
+        "Piles",
+        "Joint pain"
+      ],
+      "healthcare": [
+        "Joint pain relief",
+        "Fever management",
+        "Hair care"
+      ],
+      "cooking": [
+        "Nagkesar in Ayurvedic Churna:Nagkesar is often included in Ayurvedic digestive powders (churnas) for its benefits to the digestive system.🌟 Cooking Tip:Nagkesar has a mild floral flavor, making it suitable for infusions and adding a subtle fragrance to foods and drinks. It is often paired with other Ayurvedic herbs and spices."
+      ]
+    },
+    "benefits": [
+      "Controls bleeding",
+      "Reduces inflammation",
+      "Improves skin tone"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Tagar",
+    "image": "assets/images/tagar.jpeg",
+    "description": "Tagar (Valeriana wallichii), also known as Indian Valerian, is a medicinal herb used primarily for its sedative and calming properties. It is commonly used in Ayurvedic medicine to promote relaxation, reduce anxiety, and improve sleep quality. Tagar is also beneficial in treating conditions like stress, nervous disorders, and insomnia. It has mild analgesic effects and is often used to relieve pain and muscle tension. Additionally, Tagar is known for its ability to support mental clarity and balance the nervous system.",
+    "sources": [
+      "India",
+      "Himalayan region"
+    ],
+    "uses": {
+      "medicine": [
+        "Sleep disorders",
+        "Anxiety",
+        "Epilepsy"
+      ],
+      "healthcare": [
+        "Sleep disorders",
+        "Pain relief",
+        "Nervous system support",
+        "Muscle relaxation"
+      ],
+      "cooking": [
+        "Tagar and Honey Remedy:Mix a little Tagar powder with honey to make a soothing drink that promotes calmness and helps with sleep.🌟 Cooking Tip:Tagar has a mild, earthy flavor, which makes it suitable for teas and soothing beverages. It pairs well with other calming herbs like chamomile or lavender."
+      ]
+    },
+    "benefits": [
+      "Promotes restful sleep",
+      "Reduces stress",
+      "Relieves muscle cramps"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Ginger",
+    "image": "assets/images/ginger.webp",
+    "description": "Ginger (Zingiber officinale) is a widely used medicinal plant known for its anti-inflammatory, antioxidant, and digestive properties. It is commonly used to treat nausea, indigestion, and motion sickness. Ginger also helps relieve pain, reduce inflammation, and improve circulation. It is often used to support immune health, reduce symptoms of colds and flu, and improve respiratory function. Additionally, ginger has antimicrobial and antioxidant properties, making it beneficial for skin health and overall vitality.",
+    "sources": [
+      "India",
+      "Tropical Asia",
+      "Home gardens"
+    ],
+    "uses": {
+      "medicine": [
+        "Nausea relief",
+        "Cold and flu treatment",
+        "Anti-inflammatory"
+      ],
+      "healthcare": [
+        "Nausea and vomiting",
+        "Immune support",
+        "Cold and flu relief"
+      ],
+      "cooking": [
+        "Spice in Indian cuisine",
+        "Flavoring in teas and sweets",
+        "🌟 Cooking Tip: Ginger has a spicy, tangy flavor and is often used in both savory and sweet dishes. It can also be pickled or used as a garnish for its added zing."
+      ]
+    },
+    "benefits": [
+      "Aids digestion",
+      "Relieves nausea and motion sickness",
+      "Reduces inflammation and pain",
+      "Boosts immunity"
+    ],
+    "categories": [
+      "health care",
+      "anti-pyretic",
+      "diabetic"
+    ]
+  },
+  {
+    "name": "Mint (Pudina)",
+    "image": "assets/images/mint.jpeg",
+    "description": "Mint (Mentha) is a fragrant herb commonly used for its refreshing flavor and medicinal properties. It is known for its ability to aid digestion, reduce nausea, and relieve symptoms of indigestion and bloating. Mint also has soothing effects on the respiratory system, helping to alleviate symptoms of colds, congestion, and coughs. Additionally, it has antimicrobial and antioxidant properties, which promote skin health and support the immune system. Mint is often used in teas, topical applications, and culinary dishes for its refreshing taste and health benefits.",
+    "sources": [
+      "India",
+      "Gardens",
+      "Cool and moist climates"
+    ],
+    "uses": {
+      "medicine": [
+        "Relieves indigestion",
+        "Cures nausea",
+        "Fights bad breath"
+      ],
+      "healthcare": [
+        "Muscle relaxation",
+        "Skin care",
+        "Headache relief",
+        "Skin care",
+        "Indigestion and nausea"
+      ],
+      "cooking": [
+        "Chutneys",
+        "Drinks",
+        "Curries",
+        " Cooking Tip: Mint has a cooling, refreshing flavor, perfect for both savory and sweet dishes. It's also often used to make mint syrup, which can be drizzled over desserts or mixed into beverages."
+      ]
+    },
+    "benefits": [
+      "Aids digestion",
+      "Cools the body",
+      "Soothes the stomach"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Coriander (Dhaniya)",
+    "image": "assets/images/coriander.jpeg",
+    "description": "Coriander (Coriandrum sativum) is a versatile herb widely used for its culinary and medicinal properties. It is known for its ability to aid digestion, reduce bloating, and relieve indigestion. Coriander also has antioxidant and antimicrobial properties, making it beneficial for detoxifying the body, improving skin health, and supporting the immune system. The seeds of coriander are used to manage blood sugar levels, reduce cholesterol, and enhance overall heart health. Additionally, coriander is known for its calming effects and ability to reduce anxiety.",
+    "sources": [
+      "India",
+      "Kitchen gardens",
+      "Fields"
+    ],
+    "uses": {
+      "medicine": [
+        "Lowers blood sugar",
+        "Improves digestion",
+        "Detoxifier"
+      ],
+      "healthcare": [
+        "Lowering cholesterol",
+        "Detoxification",
+        "Anxiety and stress relief",
+        "Antimicrobial"
+      ],
+      "cooking": [
+        "Garnishing",
+        "Spices",
+        "Chutneys",
+        "🌟 Cooking Tip: Coriander leaves have a fresh, citrusy flavor, which adds a vibrant taste to salads, curries, and soups. The seeds are slightly spicy with citrus notes, perfect for seasoning roasted vegetables or adding to spice mixes."
+      ]
+    },
+    "benefits": [
+      "Detoxifies the body",
+      "Reduces inflammation",
+      "Improves heart health"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Curry Leaves (Kadi Patta)",
+    "image": "assets/images/curry leaves.jpeg",
+    "description": "Curry Leaves (Murraya koenigii) are aromatic leaves commonly used in cooking and traditional medicine. They are rich in antioxidants and nutrients, offering numerous health benefits. Curry leaves are known for their ability to improve digestion, stimulate appetite, and treat conditions like diarrhea and dysentery. They are also used to support hair health, reduce hair loss, and promote the growth of healthy hair. Additionally, curry leaves have antimicrobial, anti-inflammatory, and blood sugar-lowering properties, making them beneficial for overall health and wellness.",
+    "sources": [
+      "India",
+      "South Indian states",
+      "Gardens"
+    ],
+    "uses": {
+      "medicine": [
+        "Lowers cholesterol",
+        "Improves eyesight",
+        "Treats anemia"
+      ],
+      "healthcare": [
+        "Digestive issues",
+        "Cholesterol regulation",
+        "Hair care",
+        "Blood sugar management"
+      ],
+      "cooking": [
+        "Tadka",
+        "Chutneys",
+        "Rice dishes",
+        "🌟 Cooking Tip: Curry leaves have a distinct, aromatic flavor that enhances savory dishes. They are typically used in tempering or as a garnish in South Asian cuisine, adding a refreshing herbal note to dishes."
+      ]
+    },
+    "benefits": [
+      "Aids in digestion",
+      "Improves hair health",
+      "Regulates blood sugar"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Fenugreek (Methi)",
+    "image": "assets/images/fenugreek.jpeg",
+    "description": "Fenugreek (Trigonella foenum-graecum) is a versatile herb commonly used in cooking and traditional medicine. It is known for its ability to improve digestion, regulate blood sugar levels, and promote healthy cholesterol levels. Fenugreek is also used to boost milk production in breastfeeding mothers and improve appetite. Additionally, it has anti-inflammatory, antioxidant, and antimicrobial properties, which help support immune health, reduce inflammation, and manage conditions like acne and skin irritation. Fenugreek is also believed to support hormonal balance and enhance overall vitality.",
+    "sources": [
+      "India",
+      "Fields",
+      "Gardens"
+    ],
+    "uses": {
+      "medicine": [
+        "Controls diabetes",
+        "Boosts milk production",
+        "Hair care"
+      ],
+      "healthcare": [
+        "Blood sugar regulation",
+        "Cholesterol control",
+        "Breastfeeding aid",
+        "Menstrual and hormonal support"
+      ],
+      "cooking": [
+        "Parathas",
+        "Curries",
+        "Pickles",
+        "🌟 Cooking Tip:Fenugreek leaves have a bitter flavor, which adds depth and complexity to savory dishes. Fenugreek seeds are slightly bitter and earthy, making them perfect for spice mixes, pickles, and dals."
+      ]
+    },
+    "benefits": [
+      "Improves digestion",
+      "Reduces inflammation",
+      "Regulates hormones"
+    ],
+    "categories": ["diabetic"]
+  },
+  {
+    "name": "Cumin (Jeera)",
+    "image": "assets/images/cumin.jpeg",
+    "description": "Cumin (Cuminum cyminum) is a popular spice known for its distinct aroma and flavor, as well as its numerous health benefits. It is widely used in cooking and traditional medicine for its digestive, antioxidant, and anti-inflammatory properties. Cumin helps improve digestion, reduce bloating, and alleviate symptoms of indigestion. It is also known to support the immune system, manage blood sugar levels, and improve skin health. Cumins antibacterial properties help protect against infections, and it is also used to enhance metabolism and support weight loss.",
+    "sources": [
+      "India",
+      "Dry regions",
+      "Farm fields"
+    ],
+    "uses": {
+      "medicine": [
+        "Improves metabolism",
+        "Aids digestion",
+        "Reduces bloating"
+      ],
+      "healthcare": [
+        "Digestive issues",
+        "Breath freshener",
+        "Cholesterol management",
+        "Anti-cancer properties",
+        "Weight management"
+      ],
+      "cooking": [
+        "Curries",
+        "Rice",
+        "Snacks",
+        "🌟 Cooking Tip: Cumin has a warm, earthy flavor and is often used in spice blends and savory dishes. To enhance its flavor, toast the seeds in a dry pan before using them."
+      ]
+    },
+    "benefits": [
+      "Improves gut health",
+      "Boosts iron levels",
+      "Detoxifies the body"
+    ],
+    "categories": []
+  },
+  {
+    "name": "Ajwain (Carom Seeds)",
+    "image": "assets/images/ajwain.jpeg",
+    "description": "Ajwain (Carom seeds) is a powerful herb commonly used in cooking and traditional medicine for its digestive and medicinal properties. It is known to relieve indigestion, bloating, and gas, and is often used to treat stomach-related issues like acid reflux and colic. Ajwain also has antimicrobial, anti-inflammatory, and antioxidant properties, making it beneficial for supporting the immune system and promoting overall wellness. It is also used to manage symptoms of respiratory conditions, such as asthma and bronchitis, and helps to reduce pain and inflammation.",
+    "sources": [
+      "India",
+      "Fields",
+      "Dry climates"
+    ],
+    "uses": {
+      "medicine": [
+        "Treats indigestion",
+        "Relieves cold",
+        "Anti-bacterial"
+      ],
+      "healthcare": [
+        "Indigestion and bloating",
+        "Cough and cold relief",
+        "Liver health",
+        "Pain relief",
+        "Skin health"
+      ],
+      "cooking": [
+        "Parathas",
+        "Snacks",
+        "Tadka"
+      ]
+    },
+    "benefits": [
+      "Relieves gas and bloating",
+      "Kills harmful bacteria",
+      "Boosts metabolism"
+    ],
+    "categories": []
+  }
+]

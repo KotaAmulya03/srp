@@ -1,0 +1,171 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #4CAF50;
+    padding: 20px 0;
+    color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.navbar li {
+    margin-left: 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #d4e157;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Introduction Section */
+.intro-section {
+    background-image: url('https://via.placeholder.com/1500x800?text=Herbal+Plants+Background');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.intro-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+.intro-content p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    max-width: 800px;
+    margin: 0 auto 20px;
+}
+
+.intro-images {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+}
+
+.intro-image {
+    width: 25%;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.intro-content h3 {
+    font-size: 1.8rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.intro-content ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+.intro-content ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.intro-content .button {
+    padding: 12px 25px;
+    background-color: #4CAF50;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.intro-content .button:hover {
+    background-color: #388E3C;
+}
+
+/* Search Section */
+.search-section {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.search-section input {
+    width: 60%;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+.search-section input:focus {
+    border-color: #4CAF50;
+}
+
+/* Contact Section */
+.contact-section {
+    background-color: #e8f5e9;
+    padding: 40px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.contact-section h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.contact-section p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+footer p {
+    font-size: 1rem;
+}
